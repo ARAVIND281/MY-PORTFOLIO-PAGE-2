@@ -1,0 +1,19 @@
+    h1 {
+        color: lime;
+    }
+    h2{
+        color: gold;
+    }
+    h3{
+        color: aqua;
+    }
+
+    * {
+        border: solid;
+    }
+    .familyphoto{
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: space-evenly;
+
+    }
